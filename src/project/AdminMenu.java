@@ -16,7 +16,7 @@ public class AdminMenu extends JFrame implements MouseListener {
 	public AdminMenu() {
 		setTitle("관리자  메뉴");//프레임 타이틀 
 		setSize(900, 500);//프레임 사이즈
-		setDefaultCloseOperation(AdminMenu.DISPOSE_ON_CLOSE);// 프레임 윈도우를 닫으면 이 창만 종료하도록 설정
+		setDefaultCloseOperation(AdminMenu.DISPOSE_ON_CLOSE);//창를 닫으면 이 창만 종료하도록 설정
 		
 		//관리자 프레임에서 버튼의 위치 설정해줌
 		BPasswordChange.setLocation(50, 150); BPasswordChange.setSize(150, 60);
