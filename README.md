@@ -21,7 +21,7 @@ VendingMachine-master/
         ├── Machine.java
         ├── item.java
         └── money.java
-
+```
 
 ## Key Features
 - **Beverage Selection**: Users can choose from a variety of beverages.
